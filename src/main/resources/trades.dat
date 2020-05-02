@@ -1,0 +1,5 @@
+Trade ID, Version, CounterParty ID, Book ID, Maturity Date, Expired
+T1,1,CP-1,B1,20/01/2022,N
+T2,1,CP-2,B2,22/01/2023,N
+T3,1,CP-1,B3,25/01/2024,N
+T4,1,CP-3,B4,24/01/2025,N
